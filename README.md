@@ -14,7 +14,7 @@ My research addressed fundamental challenges in spatial computing, focusing on h
 
 ## 🧑‍🔬 Research Contributions
 * **Advanced Spatial Optimization:** Created algorithms to manage complex data and interactions in large-scale virtual environments.
-* **Human-Computer Interaction (HCI):** Focused on improving the precision and responsiveness of immersive systems to better serve user needs amd reduce cybersickness. 
+* **Human-Computer Interaction (HCI):** Focused on improving the precision and responsiveness of immersive systems to better serve user needs and reduce cybersickness. 
 * **Published Work:** My findings have been shared and cited within the global research community, advancing the state-of-the-art in AR/VR/MR technology.
 
 ---
