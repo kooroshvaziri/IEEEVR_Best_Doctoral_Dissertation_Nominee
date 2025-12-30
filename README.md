@@ -5,7 +5,7 @@ I am honored to have been nominated for the **IEEEVR Best Doctoral Dissertation 
 > **"Koorosh was the only doctoral student I recommended for this prestigious honor throughout my entire tenure as a professor."** > — *Prof. Victoria Interrante, University of Minnesota*
 
 ## 📚 Dissertation: Supporting the understanding of architectural interiors with non-photorealistic rendering in virtual reality
-My research addressed fundamental challenges in spatial computing, focusing on how large-scale optimization and control systems can enhance user experience and system efficiency in immersive environments.
+My research addressed fundamental challenges in spatial computing, focusing on how non-photorealistic rendering can impact user experience and cyber induced sickness in immersive large-scale environments.
 
 ### 🎖️ Key Recognition & Impact
 * **Exclusive Nomination:** Selected as the sole nominee from my doctoral lab, reflecting the highest standard of academic excellence and research impact.
